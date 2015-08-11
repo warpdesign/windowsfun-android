@@ -13,7 +13,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 /**
- * Created by nicolaramz on 20/03/14.
+ * Created by nicolas ramz on 20/03/14.
  */
 public class WPFunApp extends Application {
 

@@ -13,7 +13,7 @@ import com.warpdesign.windowsphonefun.interfaces.ChangeLinkListener;
 import java.util.HashMap;
 
 /**
- * Created by nicolaramz on 19/03/14.
+ * Created by nicolas ramz on 19/03/14.
  */
 public class ThumbListFragment extends ListFragment{
     private ThumbListAdapter adapter = null;

@@ -1,7 +1,7 @@
 package com.warpdesign.windowsphonefun.utils;
 
 /**
- * Created by nicolaramz on 19/03/14.
+ * Created by nicolas ramz on 19/03/14.
  */
 
 import java.io.IOException;

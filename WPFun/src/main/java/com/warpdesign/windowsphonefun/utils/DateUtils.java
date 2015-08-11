@@ -10,7 +10,7 @@ import java.util.Date;
 import java.util.Locale;
 
 /**
- * Created by nicolaramz on 26/03/14.
+ * Created by nicolas ramz on 26/03/14.
  */
 public class DateUtils {
     static public String XMLDateFormatString = "EEE, dd MMM yyyy HH:mm:ss zzz";

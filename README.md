@@ -10,9 +10,9 @@ If you're a developer wanting to contribute, read on.
 The gradle build system will fetch all dependencies and generate
 files you need to build the project.
 
-You can use Android Studio by importing the project as a Gradle project.
+You can use Android Studio by importing the project as a Gradle project: Windows Fun has been updated to work with the latest version Android Studio: 1.3.
 
-## License ##
+## Licence ##
 
 Windows Fun is distributed under an MIT licence.
 

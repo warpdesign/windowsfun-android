@@ -23,7 +23,7 @@ import java.util.Locale;
 import com.warpdesign.windowsphonefun.utils.DateUtils;
 
 /**
- * Created by nicolaramz on 18/03/14.
+ * Created by nicolas ramz on 18/03/14.
  */
 public class ThumbListAdapter extends BaseAdapter{
     private Activity activity;

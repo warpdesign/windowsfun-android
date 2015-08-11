@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- * Created by nicolaramz on 20/03/14.
+ * Created by nicolas ramz on 20/03/14.
  */
 public class MemoryCache {
     String cacheContent = "";

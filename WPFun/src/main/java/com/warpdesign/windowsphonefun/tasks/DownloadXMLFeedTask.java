@@ -11,7 +11,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 /**
- * Created by nicolaramz on 19/03/14.
+ * Created by nicolas ramz on 19/03/14.
  */
 public class DownloadXMLFeedTask extends AsyncTask<Void, Void, String> {
     private OnTaskCompletedListener listener;

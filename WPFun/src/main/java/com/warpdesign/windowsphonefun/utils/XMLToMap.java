@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 /**
- * Created by nicolaramz on 27/03/14.
+ * Created by nicolas ramz on 27/03/14.
  */
 public class XMLToMap {
     static public ArrayList<HashMap<String, String>> parse(String rssFeed) {
