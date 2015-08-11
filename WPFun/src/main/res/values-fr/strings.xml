@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Windows Phone Fun</string>
+    <string name="loading">Chargement...</string>
+    <string name="article_view">Actualités</string>
+    <string name="action_refresh">Raffraîchir</string>
+    <string name="action_about">A Propos de</string>
+    <string name="action_share">Partager</string>
+    <string name="action_open_browser">Ouvrir dans un Navigateur</string>
+    <string name="action_copy_url">Copier le Lien</string>
+    <string name="action_settings">Préférences</string>
+    <string name="date_yesterday">Hier</string>
+    <string name="date_day_month">%m %d</string>
+    <string name="date_full">%m/%d/%y</string>
+    <string name="about_description">Version %s\nCopyright © 2014 Warpdesign\nhttp://www.warpdesign.fr</string>
+    <string name="about_credits">★ Librairie de cache image: https://github.com/square/picasso\n\n★ Icône par Icon8</string>
+    <string name="error_server_unavailable">Impossible de Contacter le serveur.\nMerci de réessayer plus tard.</string>
+    <string name="articles_updated">Liste des %s mises à jour :)</string>
+    <string name="articles_uptodate">Liste des %s déjà à jour ;)</string>
+    <!-- settings -->
+    <string name="settings_flush">Vider le Cache</string>
+    <string name="settings_flush_help">Cliquez ici pour vider le cache interne (pour forcer le raffraîchissement des flux)</string>
+    <string name="settings_cache_title">Cache Interne</string>
+    <string name="title_activity_settings">Préférences</string>
+    <string name="toast_cache_flushed">Cache supprimé :)</string>
+    <string name="toast_cache_not_flushed">Erreur lors de la suppression du cache :(</string>
+</resources>

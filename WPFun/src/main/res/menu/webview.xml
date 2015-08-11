@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.warpdesign.windowsphonefun.activities.WebVewActivity" >
+    
+    <item android:id="@+id/action_share"
+        android:title="@string/action_share"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:actionProviderClass="android.widget.ShareActionProvider"/>
+
+    <item android:id="@+id/action_open_browser"
+        android:title="@string/action_open_browser"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_open_copy_url"
+        android:title="@string/action_copy_url"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>

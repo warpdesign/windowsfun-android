@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="@string/settings_cache_title"
+        android:key="settings_key_storage_settings">
+        <Preference
+            android:key="pref_flush_cache"
+            android:title="@string/settings_flush"
+            android:summary="@string/settings_flush_help"
+            android:defaultValue="true" />
+    </PreferenceCategory>
+</PreferenceScreen>
